@@ -50,7 +50,7 @@ The **Server Fingerprinter** is a Java application designed to retrieve and pres
 
 ## Usage
 
-1. **Compile!:** Compile the Java code using an appropriate compiler. I use BlueJ. (Time to grow up)
+1. **Compile!:** Compile the Java code using an appropriate compiler. I use BlueJ. 
 2. **Execute!:** Run the compiled program.
 3. **Input!:** Provide the target URL when prompted.
 4. **Results!:** The application will display comprehensive information about the server, IP address allocation, SSL certificate, and its validity status.
